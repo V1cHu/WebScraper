@@ -1,11 +1,11 @@
 # WebScraper
 A small python script which I wrote for booking movie tickets once it opens. It can be used with any other countdowns as well such as in retail websites.
 
-##Requirements:
+## Requirements:
 1. Python 3
 2. Beautiful Soup 4 -> install it by <code>pip install beautifulsoup4</code>
 
-##How to use:
+## How to use:
 
 1. Modify the url which you want to scrape.
 2. Identify the tag which will contain the item that you want. *Inspect Element :D* 
